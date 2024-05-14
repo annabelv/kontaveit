@@ -45,9 +45,10 @@ body{
     .hero-mobile{display:none};
 }
 .hero-desktop-frontpage .hero-text h1{  /*ANETT NIMI JA JOONEGA WTA*/
-    position: absolute;
-    left: 200px;
-    top:200px;
+	position: absolute;
+	left: 165px;
+	right: 13%;
+	top: 95px;
     color:#fbfbfb;
     font-family: 'Brush Script MT', cursive;
     font-size:160px;
@@ -2486,19 +2487,6 @@ img {
 	text-align: center
 }
 
-.hero-desktop-frontpage .hero-content .hero-text h1 {
-	position: absolute;
-	left: 40px;
-	right: 13%;
-	top: 75px;
-	font-family: Stainy, sans-serif;
-	font-size: 160px;
-	font-weight: 400;
-	-webkit-transform: rotate(-8deg);
-	-ms-transform: rotate(-8deg);
-	transform: rotate(-8deg);
-	margin-bottom: 10px
-}
 
 .hero-desktop-frontpage .hero-content .hero-text .bottom {
 	width: 330px;
